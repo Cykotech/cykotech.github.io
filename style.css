@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(62, 37, 62);
+    color: lightgray;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+table {
+    margin: 0 auto;
+    text-align: left;
+    border: 2px solid lightgray;
+}
+
+td {
+    border-bottom: 1px solid lightgray;
+}
+
+th {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.last_row {
+    border-bottom: 0;
+}
